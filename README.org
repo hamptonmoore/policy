@@ -713,7 +713,7 @@ This procedures provides a generic process for cross-checking a given software c
       1. YES: link to test results
       2. NO: verify director alignment
       3. NO TESTING POSSIBLE: If a 1:1 test is not possible, document anything we did to be confident the change is correct/will work as expected.
-2. Stakehoder Alignment
+2. Stakeholder Alignment
    1. N/A, change doesn't have significant stakeholders
    2. Pending change communication and notification planning
    3. Stakeholders communication is partially complete

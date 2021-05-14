@@ -39,67 +39,67 @@ directors.  When that occurs we'll update this.
 
 # Table of Contents
 
-1.  [OUR POLICY](#org25d353b)
-    1.  [Our Expectations Evolution Policy](#org6885839)
-        1.  [SUMMARY](#org2108183)
-        2.  [ITEMS](#orgacc16bc)
-    2.  [Our Values and Ethics Policy](#orge55d63a)
-        1.  [SUMMARY](#org0499ebe)
-        2.  [ITEMS](#orgc83b5cf)
-    3.  [Our Community Policy](#orgc5cf186)
-        1.  [SUMMARY](#org694c711)
-        2.  [ITEMS](#org316e8b8)
-    4.  [Our Teamwork Policy](#org0abcdcc)
-        1.  [SUMMARY](#org63fcb45)
-        2.  [ITEMS](#org6b8eacf)
-    5.  [Our Sponsorship and Contribution Policy](#orgb806482)
-        1.  [SUMMARY](#orga590d1a)
-        2.  [ITEMS](#orga7c611e)
-    6.  [Our Record Keeping ("Privacy") Policy](#org71c151e)
-        1.  [SUMMARY](#orgebcbddc)
-        2.  [ITEMS](#org091ac73)
-    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org9d43de7)
-        1.  [SUMMARY](#org2895ca5)
-        2.  [ITEMS](#org9a6ba79)
-2.  [OUR PROCEDURES](#orgaf4706e)
-    1.  [SUMMARY](#org0cf8a76)
-    2.  [Writing and Updating Procedure](#orge9919cc):PROCEDURE:
-    3.  [Preventing and Reporting Abuse](#org5b0b891):PROCEDURE:
-        1.  [SUMMARY](#orga9bd469)
-        2.  [ITEM](#orgdcfb155)
-    4.  [Information Handling](#org73ae40f):PROCEDURE:
-        1.  [SUMMARY](#org6f6f1c7)
-        2.  [ITEMS](#orgdfefe87)
-    5.  [Risk and Control](#org4e5641a):PROCEDURE:
-        1.  [SUMMARY](#org9467221)
-        2.  [ITEMS](#orgfed191f)
-    6.  [Limited General Representation](#orge54ac53):PROCEDURE:
-        1.  [Limited Due Diligence](#org8ce67f6):PROCEDURE:
-        2.  [Limited Liability](#org3b1b0cf):PROCEDURE:
-        3.  [Limited Delegation](#orgd6e03ad):PROCEDURE:
-    7.  [Exceptional Circumstance](#org89bb375):PROCEDURE:
-        1.  [SUMMARY](#org709941b)
-        2.  [ITEMS](#org3980b9d)
-    8.  [Customary Authority](#orge09cbf8):PROCEDURE:
-        1.  [Routine Changes](#org8a8f29c):PROCEDURE:
-        2.  [Emergency Maintenance](#org62fe622):PROCEDURE:
-    9.  [Public Relations](#orgc4b5844):PROCEDURE:
-    10. [Defining and Prioritizing Projects](#orgb3b0759):PROCEDURE:
-        1.  [SUMMARY](#org0143370)
-        2.  [ITEMS](#org100458e)
-    11. [Scheduling Criteria](#orgb8457db):PROCEDURE:
-        1.  [SUMMARY](#org774e4f2)
-        2.  [ITEMS](#org8085af8)
-    12. [Technical Criteria](#orgf59d8fe):PROCEDURE:
-        1.  [SUMMARY](#org0eb7159)
-        2.  [ITEMS](#org440da1e)
-    13. [Operational Logging](#orgfaece2e)
-        1.  [SUMMARY](#org4054b71)
-        2.  [ITEMS](#org649fc5c)
-3.  [OTHER](#org75c0e25)
+1.  [OUR POLICY](#orgcd8c4e5)
+    1.  [Our Expectations Evolution Policy](#org3e8cf7b)
+        1.  [SUMMARY](#org9526fca)
+        2.  [ITEMS](#orgc95ad82)
+    2.  [Our Values and Ethics Policy](#org3daaddf)
+        1.  [SUMMARY](#orgd3aa23c)
+        2.  [ITEMS](#org77cec07)
+    3.  [Our Community Policy](#org4415dd3)
+        1.  [SUMMARY](#orgad4a314)
+        2.  [ITEMS](#org9f17666)
+    4.  [Our Teamwork Policy](#org9019c40)
+        1.  [SUMMARY](#org848f5e3)
+        2.  [ITEMS](#org6f1b141)
+    5.  [Our Sponsorship and Contribution Policy](#org0423922)
+        1.  [SUMMARY](#org38029c0)
+        2.  [ITEMS](#org0132d82)
+    6.  [Our Record Keeping ("Privacy") Policy](#orgf5e44e3)
+        1.  [SUMMARY](#org4ba568c)
+        2.  [ITEMS](#orgf607baf)
+    7.  [Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy](#org1d7b7a5)
+        1.  [SUMMARY](#org38c731a)
+        2.  [ITEMS](#org920e2a3)
+2.  [OUR PROCEDURES](#orgabfb15d)
+    1.  [SUMMARY](#orgea7b6b4)
+    2.  [Writing and Updating Procedure](#orgc7b6175):PROCEDURE:
+    3.  [Preventing and Reporting Abuse](#org15a44d4):PROCEDURE:
+        1.  [SUMMARY](#orgbdf38ea)
+        2.  [ITEM](#org9f4538b)
+    4.  [Information Handling](#orgbf3dd12):PROCEDURE:
+        1.  [SUMMARY](#orgbe9e884)
+        2.  [ITEMS](#org0c29507)
+    5.  [Risk and Control](#org747677d):PROCEDURE:
+        1.  [SUMMARY](#orgf923091)
+        2.  [ITEMS](#orgb25acbb)
+    6.  [Limited General Representation](#org66a2831):PROCEDURE:
+        1.  [Limited Due Diligence](#orgca911e8):PROCEDURE:
+        2.  [Limited Liability](#orgcda5ca6):PROCEDURE:
+        3.  [Limited Delegation](#org4c3ba63):PROCEDURE:
+    7.  [Exceptional Circumstance](#org7283956):PROCEDURE:
+        1.  [SUMMARY](#org76f5104)
+        2.  [ITEMS](#org0b1ab6c)
+    8.  [Customary Authority](#org2829ffd):PROCEDURE:
+        1.  [Routine Changes](#org7865889):PROCEDURE:
+        2.  [Emergency Maintenance](#orgc71eaa8):PROCEDURE:
+    9.  [Public Relations](#org3773db2):PROCEDURE:
+    10. [Defining and Prioritizing Projects](#orgbe34baf):PROCEDURE:
+        1.  [SUMMARY](#org671976e)
+        2.  [ITEMS](#org9523377)
+    11. [Scheduling Criteria](#orga71d373):PROCEDURE:
+        1.  [SUMMARY](#org6ece3ab)
+        2.  [ITEMS](#org7795d68)
+    12. [Technical Criteria](#orgd32ffa4):PROCEDURE:
+        1.  [SUMMARY](#orge5fe0b5)
+        2.  [ITEMS](#orgb772d49)
+    13. [Operational Logging](#org67bbfca)
+        1.  [SUMMARY](#org023d252)
+        2.  [ITEMS](#org0a085a6)
+3.  [OTHER](#org42e85a4)
 
 
-<a id="org25d353b"></a>
+<a id="orgcd8c4e5"></a>
 
 # OUR POLICY
 
@@ -110,14 +110,14 @@ directors.  When that occurs we'll update this.
 > Permission is granted to copy, distribute and/or modify this work under the terms of the Creative Commons Attribution-ShareAlike 3.0 Unported License and, unless otherwise noted, the GNU Free Documentation License, version 1.3 or (at your option) any later version, with no invariant sections, front-cover texts, or back-cover texts.
 
 
-<a id="org6885839"></a>
+<a id="org3e8cf7b"></a>
 
 ## Our Expectations Evolution Policy
 
 > A policy to help us develop polices.
 
 
-<a id="org2108183"></a>
+<a id="org9526fca"></a>
 
 ### SUMMARY
 
@@ -126,7 +126,7 @@ The ITEMS following create a basis for directors to create and update policy, fo
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgacc16bc"></a>
+<a id="orgc95ad82"></a>
 
 ### ITEMS
 
@@ -149,14 +149,14 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Except as may relate to amending our articles and related process, where our articles may for a period of not more than three months ("one quarter", usually around 90days) have superseded our articles given they contain such changes as can and do affect our our articles and/or he process by which we have agreed to revise our articles, whereas this may allow us time needed to review and record such changes and to file those changes with external entities such as the UK CIC.
 
 
-<a id="orge55d63a"></a>
+<a id="org3daaddf"></a>
 
 ## Our Values and Ethics Policy
 
 > A statement of our values and accountability.
 
 
-<a id="org0499ebe"></a>
+<a id="orgd3aa23c"></a>
 
 ### SUMMARY
 
@@ -165,7 +165,7 @@ The ITEMS following create a basis for a guarantee of good faith in the public i
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orgc83b5cf"></a>
+<a id="org77cec07"></a>
 
 ### ITEMS
 
@@ -182,14 +182,14 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 10. we will show our same values to all people and communities.
 
 
-<a id="orgc5cf186"></a>
+<a id="org4415dd3"></a>
 
 ## Our Community Policy
 
 > A somewhat intense statement of our specific mission in serving the general interest.
 
 
-<a id="org694c711"></a>
+<a id="orgad4a314"></a>
 
 ### SUMMARY
 
@@ -207,7 +207,7 @@ and that help to identify and distinguish the interests we serve.
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org316e8b8"></a>
+<a id="org9f17666"></a>
 
 ### ITEMS
 
@@ -321,14 +321,14 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
             3.  our duty to serve the public good.
 
 
-<a id="org0abcdcc"></a>
+<a id="org9019c40"></a>
 
 ## Our Teamwork Policy
 
 > Clear expectations make the dream work.
 
 
-<a id="org63fcb45"></a>
+<a id="org848f5e3"></a>
 
 ### SUMMARY
 
@@ -337,7 +337,7 @@ The ITEMS following define teamwork as expectations regarding collaboration.
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org6b8eacf"></a>
+<a id="org6f1b141"></a>
 
 ### ITEMS
 
@@ -380,14 +380,14 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
                 2.  As duly recorded by the secretary as acknowledged by consensus or quorum of our managing and executive directors.
 
 
-<a id="orgb806482"></a>
+<a id="org0423922"></a>
 
 ## Our Sponsorship and Contribution Policy
 
 > Sometimes giving it our all means we find we didn't give it our best, or vice versa. We can work on that. Together.
 
 
-<a id="orga590d1a"></a>
+<a id="org38029c0"></a>
 
 ### SUMMARY
 
@@ -400,7 +400,7 @@ In doing so, this section establishes the basis for other "practices", which may
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="orga7c611e"></a>
+<a id="org0132d82"></a>
 
 ### ITEMS
 
@@ -456,14 +456,14 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
         4.  When and if we possess a reasonable certainty that loss or disclosure is unlikely and avoidable.
 
 
-<a id="org71c151e"></a>
+<a id="orgf5e44e3"></a>
 
 ## Our Record Keeping ("Privacy") Policy
 
 > It is difficult to unintentionally disclose what you deliberately don't keep, and you don't have to put it anywhere.
 
 
-<a id="orgebcbddc"></a>
+<a id="org4ba568c"></a>
 
 ### SUMMARY
 
@@ -479,7 +479,7 @@ In doing so, this section establishes a framework for our internal and external 
 NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 
 
-<a id="org091ac73"></a>
+<a id="orgf607baf"></a>
 
 ### ITEMS
 
@@ -559,12 +559,12 @@ NOTE: this is a summary, refer to the ITEMS below for binding policy language.
 17. Generally seeking to publish information as widely as appears to us useful and practicable given we are not otherwise prohibited or constrained.
 
 
-<a id="org9d43de7"></a>
+<a id="org1d7b7a5"></a>
 
 ## Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
 
 
-<a id="org2895ca5"></a>
+<a id="org38c731a"></a>
 
 ### SUMMARY
 
@@ -577,7 +577,7 @@ Any service we may provide is offered AS-IS, without warranty (such as of workma
 In fact, the section may specify some of the above only in outline, for example to more or less strictly influence/establish parameters for our procedures, as may follow our policies,  which we hope we more easily and flexibly change as suit our work-style and preferences, and to make these sorts of internal changes without need to generally engage the board other than a via certain minimum reporting/disclosure specified in and by ITEMS below or by our other policies and procedures.
 
 
-<a id="org9a6ba79"></a>
+<a id="org920e2a3"></a>
 
 ### ITEMS
 
@@ -627,14 +627,14 @@ In fact, the section may specify some of the above only in outline, for example 
     7.  Each change to procedure is reported to our secretary just as for other types of change such as to our policies, described above.
 
 
-<a id="orgaf4706e"></a>
+<a id="orgabfb15d"></a>
 
 # OUR PROCEDURES
 
 > I told you that, so I could tell you this.
 
 
-<a id="org0cf8a76"></a>
+<a id="orgea7b6b4"></a>
 
 ## SUMMARY
 
@@ -647,7 +647,7 @@ Otherwise, the ITEMS below describe delegations of and not conference of authori
 NOTE: In fact, the Fosshost board might be considered as the four individuals in terms of those who secure the liability shield under which we operate, however it is the mutual desire of all of the directors that we have and do operate for all intents and purposes such that Fosshost CTO Nate Sales can and does act as a fifth manager and director within our organization, including fully participating as per only his own inclination and availability to act, and continue to act as an equal member of our body, being the Fosshost board.  Generally, and absent any request he may have or in the future make, we  do afford him any rights and privileges otherwise due a member of our board.  Finally, our effective leader is Thomas Markee, our CEO and Founder.  All of the directors are confident in Thomas' leadership and pleased to support his direction for our future and the future of the FOSS movement.  These articles/procedures/policies are intended to delegate but do not in any way limit or otherwise undertake to change specifically or generally his authority over the Fosshost project, organization, nor any related assets or information as we may possess or control.
 
 
-<a id="orge9919cc"></a>
+<a id="orgc7b6175"></a>
 
 ## Writing and Updating Procedure     :PROCEDURE:
 
@@ -682,19 +682,19 @@ It may help considering how much to include from of/from:
     -   when and as the directors shall agree and the secretary so record.
 
 
-<a id="org5b0b891"></a>
+<a id="org15a44d4"></a>
 
 ## Preventing and Reporting Abuse     :PROCEDURE:
 
 
-<a id="orga9bd469"></a>
+<a id="orgbdf38ea"></a>
 
 ### SUMMARY
 
 We neither tolerate nor countenance any abuse nor excuse ourselves from consider and duly documenting each concern or potential concern in this regard.  This procedures outlines a process for that however it should not be to constrain or discourage you from other and further acts not described here and outside of the scope of preview of Fosshost.  It would and does otherwise belong to you and/as with to each of us, to report duly and as we see fit should be become aware of any serious abuse.
 
 
-<a id="orgdcfb155"></a>
+<a id="org9f4538b"></a>
 
 ### ITEM
 
@@ -719,12 +719,12 @@ We neither tolerate nor countenance any abuse nor excuse ourselves from consider
         2.  Other more specific and detailed procedures which follow may direct additional and more specific assignment and reporting.
 
 
-<a id="org73ae40f"></a>
+<a id="orgbf3dd12"></a>
 
 ## Information Handling     :PROCEDURE:
 
 
-<a id="org6f6f1c7"></a>
+<a id="orgbe9e884"></a>
 
 ### SUMMARY
 
@@ -733,7 +733,7 @@ Most if not all of our volunteers routinely handle sensitive as well as non-sens
 This procedure gives the sequence of steps invoked when we handle internal use information, including materials of unknown sensitivity.
 
 
-<a id="orgdfefe87"></a>
+<a id="org0c29507"></a>
 
 ### ITEMS
 
@@ -766,29 +766,29 @@ This procedure gives the sequence of steps invoked when we handle internal use i
     2.  other than those parties and reasons as have been expressly stated in our polices and procedures.
 
 
-<a id="org4e5641a"></a>
+<a id="org747677d"></a>
 
 ## Risk and Control     :PROCEDURE:
 
 
-<a id="org9467221"></a>
+<a id="orgf923091"></a>
 
 ### SUMMARY
 
 This procedure explains how to report risks to us and describes how we manage risk internally.
 
 
-<a id="orgfed191f"></a>
+<a id="orgb25acbb"></a>
 
 ### ITEMS
 
 
-<a id="orge54ac53"></a>
+<a id="org66a2831"></a>
 
 ## Limited General Representation     :PROCEDURE:
 
 
-<a id="org8ce67f6"></a>
+<a id="orgca911e8"></a>
 
 ### Limited Due Diligence     :PROCEDURE:
 
@@ -799,7 +799,7 @@ This procedure explains how to report risks to us and describes how we manage ri
 2.  ITEMS
 
 
-<a id="org3b1b0cf"></a>
+<a id="orgcda5ca6"></a>
 
 ### Limited Liability     :PROCEDURE:
 
@@ -810,7 +810,7 @@ This procedure explains how to report risks to us and describes how we manage ri
 2.  ITEMS
 
 
-<a id="orgd6e03ad"></a>
+<a id="org4c3ba63"></a>
 
 ### Limited Delegation     :PROCEDURE:
 
@@ -821,29 +821,29 @@ This procedure explains how to report risks to us and describes how we manage ri
 2.  ITEMS
 
 
-<a id="org89bb375"></a>
+<a id="org7283956"></a>
 
 ## Exceptional Circumstance     :PROCEDURE:
 
 
-<a id="org709941b"></a>
+<a id="org76f5104"></a>
 
 ### SUMMARY
 
 In exceptional circumstances, the volunteer or volunteers directly involved in a crisis have additional authority and responsibility.
 
 
-<a id="org3980b9d"></a>
+<a id="org0b1ab6c"></a>
 
 ### ITEMS
 
 
-<a id="orge09cbf8"></a>
+<a id="org2829ffd"></a>
 
 ## Customary Authority     :PROCEDURE:
 
 
-<a id="org8a8f29c"></a>
+<a id="org7865889"></a>
 
 ### Routine Changes     :PROCEDURE:
 
@@ -876,7 +876,7 @@ In exceptional circumstances, the volunteer or volunteers directly involved in a
             3.  once effective each shall remain effective until replaced (as described in our policies) or objected to/removed by the board of the directors of Fosshost.
 
 
-<a id="org62fe622"></a>
+<a id="orgc71eaa8"></a>
 
 ### Emergency Maintenance     :PROCEDURE:
 
@@ -886,7 +886,7 @@ In exceptional circumstances, the volunteer or volunteers directly involved in a
 2.  For the purpose of restoration of service emergency changes are summarily approved by the duty director upon completion of any otherwise required process.
 
 
-<a id="orgc4b5844"></a>
+<a id="org3773db2"></a>
 
 ## Public Relations     :PROCEDURE:
 
@@ -895,19 +895,19 @@ In exceptional circumstances, the volunteer or volunteers directly involved in a
 3.  Neither fosshost nor any given volunteer can be responsible for loss or exposure of information due, for example, to a breach of such a system, except in case where otherwise fosshost or such volunteer would be a party such a breach, or other similar malfeasance.
 
 
-<a id="orgb3b0759"></a>
+<a id="orgbe34baf"></a>
 
 ## Defining and Prioritizing Projects     :PROCEDURE:
 
 
-<a id="org0143370"></a>
+<a id="org671976e"></a>
 
 ### SUMMARY
 
 The alignment of the head of projects (Nik Anderson, HOP) or a specifically named delegate or a director of Fosshost shall be recorded, and some criteria are suggested.
 
 
-<a id="org100458e"></a>
+<a id="org9523377"></a>
 
 ### ITEMS
 
@@ -921,19 +921,19 @@ The alignment of the head of projects (Nik Anderson, HOP) or a specifically name
     3.  Is generally or appears seriously disliked or not well understood by the team, e.g. our volunteers.
 
 
-<a id="orgb8457db"></a>
+<a id="orga71d373"></a>
 
 ## Scheduling Criteria     :PROCEDURE:
 
 
-<a id="org774e4f2"></a>
+<a id="org6ece3ab"></a>
 
 ### SUMMARY
 
 Alignment from the duty director of operations (DDO, generally Deputy Director of Operations, Hope Christensen, or as delegated) is generally a formality based on circumstances, however planed changes to network (excluding work to and within test and development infrastructure of our own), come in two phases: Scheduling a change, when we consider it's readiness, and implementing the change, when we ensure no other complications appear to exist before we begin.  Scheduling can involve careful consideration, even learning how new technologies will interact with our network and our work supporting it.  Final change alignment is generally evident from circumstance.
 
 
-<a id="org8085af8"></a>
+<a id="org7795d68"></a>
 
 ### ITEMS
 
@@ -956,19 +956,19 @@ Alignment from the duty director of operations (DDO, generally Deputy Director o
     3.  The DDO shall revert the planned change once again for scheduling, and so report to the secretary and directors.
 
 
-<a id="orgf59d8fe"></a>
+<a id="orgd32ffa4"></a>
 
 ## Technical Criteria     :PROCEDURE:
 
 
-<a id="org0eb7159"></a>
+<a id="orge5fe0b5"></a>
 
 ### SUMMARY
 
 This procedures provides a generic process for cross-checking a given software change installation/configuration/reconfiguration is ready for scheduling.  In some cases individual ITEMS (and associated reporting, if any) may not apply.
 
 
-<a id="org440da1e"></a>
+<a id="orgb772d49"></a>
 
 ### ITEMS
 
@@ -977,7 +977,7 @@ This procedures provides a generic process for cross-checking a given software c
         1.  YES: link to test results
         2.  NO: verify director alignment
         3.  NO TESTING POSSIBLE: If a 1:1 test is not possible, document anything we did to be confident the change is correct/will work as expected.
-2.  Stakehoder Alignment
+2.  Stakeholder Alignment
     1.  N/A, change doesn't have significant stakeholders
     2.  Pending change communication and notification planning
     3.  Stakeholders communication is partially complete
@@ -1006,19 +1006,19 @@ This procedures provides a generic process for cross-checking a given software c
         3.  Does this include time for backup/testing/backout? (How much?)
 
 
-<a id="orgfaece2e"></a>
+<a id="org67bbfca"></a>
 
 ## Operational Logging
 
 
-<a id="org4054b71"></a>
+<a id="org023d252"></a>
 
 ### SUMMARY
 
 Fosshost keeps many logs and other similar records of and related to it's activities.  This procedure provides for two general types, one of which is used to provide the public account shared (initially) with directors on an on-going basis, and the other for internal non-reporting systems, which are generally accessible to more of our volunteers or used for other specific purposes.
 
 
-<a id="org649fc5c"></a>
+<a id="org0a085a6"></a>
 
 ### ITEMS
 
@@ -1064,7 +1064,7 @@ Fosshost keeps many logs and other similar records of and related to it's activi
     3.  And we do report and consider as vital records all such inventories and audits and their findings.
 
 
-<a id="org75c0e25"></a>
+<a id="org42e85a4"></a>
 
 # OTHER
 

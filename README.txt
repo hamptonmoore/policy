@@ -1,6 +1,8 @@
 	      ___________________________________________
 
 	       FOSSHOST CIC OPERATIONAL POLICY STATEMENT
+
+			     Hampton Moore
 	      ___________________________________________
 
 
@@ -44,67 +46,67 @@ When that occurs we'll update this.
 Table of Contents
 _________________
 
-1 OUR POLICY
-.. 1.1 Our Expectations Evolution Policy
-..... 1.1.1 SUMMARY
-..... 1.1.2 ITEMS
-.. 1.2 Our Values and Ethics Policy
-..... 1.2.1 SUMMARY
-..... 1.2.2 ITEMS
-.. 1.3 Our Community Policy
-..... 1.3.1 SUMMARY
-..... 1.3.2 ITEMS
-.. 1.4 Our Teamwork Policy
-..... 1.4.1 SUMMARY
-..... 1.4.2 ITEMS
-.. 1.5 Our Sponsorship and Contribution Policy
-..... 1.5.1 SUMMARY
-..... 1.5.2 ITEMS
-.. 1.6 Our Record Keeping ("Privacy") Policy
-..... 1.6.1 SUMMARY
-..... 1.6.2 ITEMS
-.. 1.7 Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
-..... 1.7.1 SUMMARY
-..... 1.7.2 ITEMS
-2 OUR PROCEDURES
-.. 2.1 SUMMARY
-.. 2.2 Writing and Updating Procedure                        :PROCEDURE:
-.. 2.3 Preventing and Reporting Abuse                        :PROCEDURE:
-..... 2.3.1 SUMMARY
-..... 2.3.2 ITEM
-.. 2.4 Information Handling                                  :PROCEDURE:
-..... 2.4.1 SUMMARY
-..... 2.4.2 ITEMS
-.. 2.5 Risk and Control                                      :PROCEDURE:
-..... 2.5.1 SUMMARY
-..... 2.5.2 ITEMS
-.. 2.6 Limited General Representation                        :PROCEDURE:
-..... 2.6.1 Limited Due Diligence                            :PROCEDURE:
-..... 2.6.2 Limited Liability                                :PROCEDURE:
-..... 2.6.3 Limited Delegation                               :PROCEDURE:
-.. 2.7 Exceptional Circumstance                              :PROCEDURE:
-..... 2.7.1 SUMMARY
-..... 2.7.2 ITEMS
-.. 2.8 Customary Authority                                   :PROCEDURE:
-..... 2.8.1 Routine Changes                                  :PROCEDURE:
-..... 2.8.2 Emergency Maintenance                            :PROCEDURE:
-.. 2.9 Public Relations                                      :PROCEDURE:
-.. 2.10 Defining and Prioritizing Projects                   :PROCEDURE:
-..... 2.10.1 SUMMARY
-..... 2.10.2 ITEMS
-.. 2.11 Scheduling Criteria                                  :PROCEDURE:
-..... 2.11.1 SUMMARY
-..... 2.11.2 ITEMS
-.. 2.12 Technical Criteria                                   :PROCEDURE:
-..... 2.12.1 SUMMARY
-..... 2.12.2 ITEMS
-.. 2.13 Operational Logging
-..... 2.13.1 SUMMARY
-..... 2.13.2 ITEMS
-3 OTHER
+1. OUR POLICY
+.. 1. Our Expectations Evolution Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 2. Our Values and Ethics Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 3. Our Community Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 4. Our Teamwork Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 5. Our Sponsorship and Contribution Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 6. Our Record Keeping ("Privacy") Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 7. Our Approach to Our Work ("Terms of Service", "Terms of Authority") Policy
+..... 1. SUMMARY
+..... 2. ITEMS
+2. OUR PROCEDURES
+.. 1. SUMMARY
+.. 2. Writing and Updating Procedure                         :PROCEDURE:
+.. 3. Preventing and Reporting Abuse                         :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEM
+.. 4. Information Handling                                   :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 5. Risk and Control                                       :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 6. Limited General Representation                         :PROCEDURE:
+..... 1. Limited Due Diligence                               :PROCEDURE:
+..... 2. Limited Liability                                   :PROCEDURE:
+..... 3. Limited Delegation                                  :PROCEDURE:
+.. 7. Exceptional Circumstance                               :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 8. Customary Authority                                    :PROCEDURE:
+..... 1. Routine Changes                                     :PROCEDURE:
+..... 2. Emergency Maintenance                               :PROCEDURE:
+.. 9. Public Relations                                       :PROCEDURE:
+.. 10. Defining and Prioritizing Projects                    :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 11. Scheduling Criteria                                   :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 12. Technical Criteria                                    :PROCEDURE:
+..... 1. SUMMARY
+..... 2. ITEMS
+.. 13. Operational Logging
+..... 1. SUMMARY
+..... 2. ITEMS
+3. OTHER
 
 
-[Fosshost] https://fosshost.org
+[Fosshost] <https://fosshost.org>
 
 
 1 OUR POLICY
@@ -126,7 +128,7 @@ _________________
         texts.
 
 
-[contributors] https://docs.fosshost.org/en/home/team
+[contributors] <https://docs.fosshost.org/en/home/team>
 
 1.1 Our Expectations Evolution Policy
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -450,9 +452,10 @@ _________________
            3. our duty to serve the public good.
 
 
-[endorsed or approved] https://www.gnu.org/licenses/license-list.en.html
+[endorsed or approved]
+<https://www.gnu.org/licenses/license-list.en.html>
 
-[Open Source Definition] https://opensource.org/osd
+[Open Source Definition] <https://opensource.org/osd>
 
 
 1.4 Our Teamwork Policy
@@ -1559,7 +1562,7 @@ _________________
         3. NO TESTING POSSIBLE: If a 1:1 test is not possible, document
            anything we did to be confident the change is correct/will
            work as expected.
-  2. Stakehoder Alignment
+  2. Stakeholder Alignment
      1. N/A, change doesn't have significant stakeholders
      2. Pending change communication and notification planning
      3. Stakeholders communication is partially complete
